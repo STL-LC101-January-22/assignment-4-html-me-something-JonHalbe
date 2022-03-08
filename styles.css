@@ -1,1 +1,30 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: rgb(57, 141, 156);
+}
+p {
+    background-color: rgb(215, 214, 216);
+}
+h1 {
+    padding: 10px;
+    color: blue;
+}
+p.growing{
+    font-size:160%;
+
+}
+#father{
+    font-size: 160%;
+}
+#mainHeading{
+    color: red;
+    font-size: 160%;
+}
+li{
+    font-size: 20px;
+}
+p.funParagraph{
+    color: green;
+    font-size:160%;
+}
